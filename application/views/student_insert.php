@@ -1,0 +1,93 @@
+<div class="page-content">
+	<!-- BEGIN SAMPLE PORTLET CONFIGURATION MODAL FORM-->
+	<div class="clearfix"></div>
+	<div class="content">
+		<div class="row-fluid">
+			<div class="span12">
+				<div class="grid simple ">
+					<div class="grid-title">
+						<h4><span class="semi-bold">เพิ่มนักศึกษา</span></h4>
+
+					</div>
+					<div class="grid-body ">
+
+						<form id="form_traditional_validation" action="#">
+
+							<div class="form-group">
+								<label class="form-label">รหัสนักศึกษา</label>
+								<span class="help">57102105XXX</span>
+								<div class="input-with-icon  right">
+									<i class=""></i>
+									<input type="text" name="form1Amount" id="form1Amount" class="form-control">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="form-label">ชื่อ-สกุล</label>
+								<span class="help"></span>
+								<div class="input-with-icon  right">
+									<i class=""></i>
+									<input type="text" name="form1CardHolderName" id="form1CardHolderName" class="form-control">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="form-label">ที่อยู่</label>
+								<span class="help"></span>
+								<div class="input-with-icon  right">
+									<i class=""></i>
+									<input type="text" name="form1CardNumber" id="form1CardNumber" class="form-control">
+									<!-- <textarea id="text-editor" placeholder="Enter text ..." class="form-control" rows="10"></textarea> -->
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="form-label">เบอร์โทร</label>
+								<span class="help"></span>
+								<div class="input-with-icon  right">
+									<i class=""></i>
+									<input type="text" name="form1CardNumber" id="form1CardNumber" class="form-control">
+									<!-- <textarea id="text-editor" placeholder="Enter text ..." class="form-control" rows="10"></textarea> -->
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="form-label">USERNAME</label>
+								<span class="help"></span>
+								<div class="input-with-icon  right">
+									<i class=""></i>
+									<input type="text" name="form1CardNumber" id="form1CardNumber" class="form-control">
+									<!-- <textarea id="text-editor" placeholder="Enter text ..." class="form-control" rows="10"></textarea> -->
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="form-label">PASSWORD</label>
+								<span class="help"></span>
+								<div class="input-with-icon  right">
+									<i class=""></i>
+									<input type="text" name="form1CardNumber" id="form1CardNumber" class="form-control">
+									<!-- <textarea id="text-editor" placeholder="Enter text ..." class="form-control" rows="10"></textarea> -->
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="form-label">อาจารย์ที่ปรึกษา</label>
+								<span class="help"></span>
+								<div class="  right">
+									<i class=""></i>
+									<select name="cardType" id="cardType" class="select2 form-control"  >
+										<option value="">--เลือก--</option>
+										<option value="1">Visa</option>
+										<option value="2">Master</option>
+									</select>
+								</div>
+							</div>
+							<div class="form-actions">
+								<div class="pull-right">
+									<button type="submit" class="btn btn-success btn-cons"><i class="icon-ok"></i> Save</button>
+									<!-- <button type="button" class="btn btn-white btn-cons">Cancel</button> -->
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+</div>
